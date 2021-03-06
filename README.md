@@ -13,4 +13,4 @@
 <img src="vg.gif" width="150">
 
 
-<img src="t1.gif" width="150">
+<img src="t1g.gif" width="150">
